@@ -55,7 +55,6 @@ I thrive in collaborative environments, constantly learning new tools and techno
 - Dynamic Balances: Real-time updates to account balances based on transactions.
 - Modern UI/UX: Built with SwiftUI for a clean and responsive interface.
 - Local Persistence: Data is stored locally for a seamless offline experience.
-
 - 🛠️ Technologies Used:
 - SwiftUI: Declarative UI framework for creating the app’s user interface.
 - MVVM Architecture: Ensures a clean separation of concerns and scalability.
