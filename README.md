@@ -41,7 +41,7 @@ I thrive in collaborative environments, constantly learning new tools and techno
   - Add, edit, and track daily habits with streak counters.
   - Interactive shopping cart with add/remove functionality.
   - Gradient-based modern UI with reusable components and animations.
-- **GitHub**: [GitHub Repo Link](#)
+- **GitHub**: [https://github.com/sasankkukalakunta/HabitTrackerApp](#)
 
 ---
 
@@ -60,7 +60,7 @@ I thrive in collaborative environments, constantly learning new tools and techno
 - MVVM Architecture: Ensures a clean separation of concerns and scalability.
 - Combine: Used for state management with @Published and @StateObject.
 - Local Storage: Uses @Published variables for persisting data locally.
-
+- **GitHub**:https://github.com/sasankkukalakunta/DigitalWalletApp
 ---
 
 ### **🛒 E-Commerce App**
