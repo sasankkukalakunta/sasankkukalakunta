@@ -46,7 +46,7 @@ I thrive in collaborative environments, constantly learning new tools and techno
 
 ---
 
-### **🌟 🛠️ Digital Wallet App
+### 🌟 🛠️ Digital Wallet App
 - **Description**:A Digital Wallet App built using SwiftUI and MVVM architecture. This app allows users to manage multiple wallet accounts, track transactions (income and expenses), and view real-time balances. Designed with modern SwiftUI features, this app is scalable, efficient, and user-friendly.
 - **Tech Stack**: Swift, CoreML, Combine, Firebase Authentication
 - **Key Features**:
