@@ -1,4 +1,4 @@
-# 📄 Your Name
+# Hi I'm Sasank
 
 **Mobile App Developer | Swift & SwiftUI Enthusiast | Clean Code Advocate**
 
@@ -6,9 +6,9 @@
 
 ## 👋 About Me
 
-I am a passionate and results-oriented **iOS Developer** with expertise in **Swift** and **SwiftUI**. I specialize in building elegant, scalable, and interactive mobile applications with modern architectures like **MVVM**. With a strong emphasis on writing clean, maintainable code, I enjoy turning complex problems into simple, user-friendly solutions.
+I am a passionate **iOS Developer** with expertise in **Swift** and **SwiftUI**. I specialize in building elegant, scalable, and interactive mobile applications with modern architectures like **MVVM**. With a strong emphasis on writing clean, maintainable code, I enjoy turning complex problems into simple, user-friendly solutions.
 
-I thrive in collaborative environments, constantly learning new tools and technologies to enhance user experiences. Whether it's crafting beautiful UIs, optimizing app performance, or managing state effectively, I'm driven by the goal of delivering impactful mobile solutions.
+I thrive in collaborative environments, constantly learning new tools and technologies to enhance user experiences. Whether it's crafting beautiful UIs, optimizing app performance, or managing the state effectively, I'm driven by the goal of delivering impactful mobile solutions.
 
 ---
 
