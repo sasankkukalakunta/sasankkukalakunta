@@ -50,21 +50,15 @@ I thrive in collaborative environments, constantly learning new tools and techno
 - **Tech Stack**: Swift, CoreML, Combine, Firebase Authentication
 - **Key Features**:
 - Account Management: Add and manage multiple wallet accounts with individual balances.
-
 - Transaction Tracking: Record income and expenses with notes, dates, and categories.
-
 - Dynamic Balances: Real-time updates to account balances based on transactions.
-
 - Modern UI/UX: Built with SwiftUI for a clean and responsive interface.
-
 - Local Persistence: Data is stored locally for a seamless offline experience.
 
-- 🛠️ Technologies Used: SwiftUI: Declarative UI framework for creating the app’s user interface.
-
+- 🛠️ Technologies Used:
+- SwiftUI: Declarative UI framework for creating the app’s user interface.
 - MVVM Architecture: Ensures a clean separation of concerns and scalability.
-
 - Combine: Used for state management with @Published and @StateObject.
-
 - Local Storage: Uses @Published variables for persisting data locally.
 
 ---
@@ -88,7 +82,7 @@ I thrive in collaborative environments, constantly learning new tools and techno
 
 ## 🌐 Contact Me
 
-- **Email**: your.email@example.com
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: sasank.kukalakunta@gmail.com
+- **Portfolio**: [https://github.com/sasankkukalakunta)
+- **LinkedIn**: [www.linkedin.com/in/sasank-k-29b043299)
+- **GitHub**: [https://github.com/sasankkukalakunta?tab=repositories)
