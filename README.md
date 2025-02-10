@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I am a passionate **iOS Developer** with expertise in **Swift** and **SwiftUI**. I specialize in building elegant, scalable, and interactive mobile applications with modern architectures like **MVVM**. With a strong emphasis on writing clean, maintainable code, I enjoy turning complex problems into simple, user-friendly solutions.
+A Passionate iOS Developer with expertise in Swift, React Native, and SwiftUI, I am located in Baton Rouge, LA, and Open to Work at any Location. I specialize in creating intuitive user interfaces and efficient backend solutions that improve user interaction and enhance overall application performance. With hands-on experience in utilizing industry-leading tools and software like Figma, Postman, and React Native Debugger, I am well-equipped to handle the demands of modern iOS application development.
 
 I thrive in collaborative environments, constantly learning new tools and technologies to enhance user experiences. Whether it's crafting beautiful UIs, optimizing app performance, or managing the state effectively, I'm driven by the goal of delivering impactful mobile solutions.
 
