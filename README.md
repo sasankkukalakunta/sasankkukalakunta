@@ -45,13 +45,27 @@ I thrive in collaborative environments, constantly learning new tools and techno
 
 ---
 
-### **🌟 Fitness Goal Tracker**
-- **Description**: A sleek fitness app to help users set, track, and complete fitness goals with personalized recommendations based on user input.
+### **🌟 🛠️ Digital Wallet App **
+- **Description**:A Digital Wallet App built using SwiftUI and MVVM architecture. This app allows users to manage multiple wallet accounts, track transactions (income and expenses), and view real-time balances. Designed with modern SwiftUI features, this app is scalable, efficient, and user-friendly.
 - **Tech Stack**: Swift, CoreML, Combine, Firebase Authentication
 - **Key Features**:
-  - Custom habit suggestions powered by a CoreML model.
-  - Real-time sync using Firebase Firestore for multi-device support.
-  - Gamified rewards system with badges for milestones.
+- Account Management: Add and manage multiple wallet accounts with individual balances.
+
+- Transaction Tracking: Record income and expenses with notes, dates, and categories.
+
+- Dynamic Balances: Real-time updates to account balances based on transactions.
+
+- Modern UI/UX: Built with SwiftUI for a clean and responsive interface.
+
+- Local Persistence: Data is stored locally for a seamless offline experience.
+
+- 🛠️ Technologies Used: SwiftUI: Declarative UI framework for creating the app’s user interface.
+
+- MVVM Architecture: Ensures a clean separation of concerns and scalability.
+
+- Combine: Used for state management with @Published and @StateObject.
+
+- Local Storage: Uses @Published variables for persisting data locally.
 
 ---
 
