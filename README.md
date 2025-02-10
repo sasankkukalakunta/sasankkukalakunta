@@ -26,6 +26,7 @@ I thrive in collaborative environments, constantly learning new tools and techno
 
 ### 🖌️ Design and UI/UX
 - Expertise in **SwiftUI** for building declarative UIs.
+- - **Figma**, Skilled in creating interactive prototypes, wireframes, and high-fidelity mockups.
 - Knowledge of Human Interface Guidelines (HIG) for Apple platforms.
 - Proficient in designing responsive layouts and custom components.
 - Experience creating visually appealing apps with **Lottie Animations**, **SF Symbols**, and **Custom Gradients**.
