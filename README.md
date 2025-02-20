@@ -42,8 +42,7 @@ I thrive in collaborative environments, constantly learning new tools and techno
   - Add, edit, and track daily habits with streak counters.
   - Interactive shopping cart with add/remove functionality.
   - Gradient-based modern UI with reusable components and animations.
-- **GitHub**: [https://github.com/sasankkukalakunta/HabitTrackerApp.git](#)
-
+- **GitHub**:https://github.com/sasankkukalakunta/HabitTrackerApp
 ---
 
 ### 🌟 🛠️ Digital Wallet App
